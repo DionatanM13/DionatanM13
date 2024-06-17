@@ -8,3 +8,6 @@ Trabalho como professor do ensino médio técnico de Desenvolvimento de Sistemas
 - Programação em Node.js ☕
 - Banco de Dados 🎲
 - Jogos Digitais 🎮
+
+**Meu contato**
+dionataninhoato@gmail.com
